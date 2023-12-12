@@ -1,0 +1,10 @@
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\bin\Debug\netstandard2.1\N-Tier.Shared.deps.json
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\bin\Debug\netstandard2.1\N-Tier.Shared.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\bin\Debug\netstandard2.1\N-Tier.Shared.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.csproj.AssemblyReference.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.AssemblyInfoInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.AssemblyInfo.cs
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.csproj.CoreCompileInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.pdb

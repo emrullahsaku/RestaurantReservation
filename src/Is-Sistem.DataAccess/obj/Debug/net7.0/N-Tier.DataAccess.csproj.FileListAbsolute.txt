@@ -1,0 +1,17 @@
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\bin\Debug\net7.0\N-Tier.DataAccess.deps.json
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\bin\Debug\net7.0\N-Tier.DataAccess.runtimeconfig.json
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\bin\Debug\net7.0\N-Tier.DataAccess.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\bin\Debug\net7.0\N-Tier.DataAccess.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\bin\Debug\net7.0\N-Tier.Core.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\bin\Debug\net7.0\N-Tier.Core.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.csproj.AssemblyReference.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.AssemblyInfoInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.AssemblyInfo.cs
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.csproj.CopyComplete
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\refint\N-Tier.DataAccess.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\N-Tier.DataAccess.genruntimeconfig.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.DataAccess\obj\Debug\net7.0\ref\N-Tier.DataAccess.dll

@@ -1,0 +1,17 @@
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.Application.deps.json
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.Application.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.Application.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.Core.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.DataAccess.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.DataAccess.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\bin\Debug\net7.0\N-Tier.Core.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.csproj.AssemblyReference.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.AssemblyInfoInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.AssemblyInfo.cs
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.csproj.CoreCompileInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.csproj.CopyComplete
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\refint\N-Tier.Application.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\N-Tier.Application.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Application\obj\Debug\net7.0\ref\N-Tier.Application.dll

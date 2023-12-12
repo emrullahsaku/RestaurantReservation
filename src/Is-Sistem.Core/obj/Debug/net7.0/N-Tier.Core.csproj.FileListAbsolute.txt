@@ -1,0 +1,11 @@
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\bin\Debug\net7.0\N-Tier.Core.deps.json
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\bin\Debug\net7.0\N-Tier.Core.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\bin\Debug\net7.0\N-Tier.Core.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\N-Tier.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\N-Tier.Core.AssemblyInfoInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\N-Tier.Core.AssemblyInfo.cs
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\N-Tier.Core.csproj.CoreCompileInputs.cache
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\N-Tier.Core.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\refint\N-Tier.Core.dll
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\N-Tier.Core.pdb
+C:\Users\esaku\Downloads\N-Tier-Architecture-main\N-Tier-Architecture-main\src\N-Tier.Core\obj\Debug\net7.0\ref\N-Tier.Core.dll
